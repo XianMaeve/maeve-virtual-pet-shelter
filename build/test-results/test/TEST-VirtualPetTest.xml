@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VirtualPetTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-09-13T19:50:33" hostname="DESKTOP-AP3MVL7" time="0.024">
+  <properties/>
+  <testcase name="canHealPet()" classname="VirtualPetTest" time="0.016"/>
+  <testcase name="canEntertainPet()" classname="VirtualPetTest" time="0.001"/>
+  <testcase name="canWaterPet()" classname="VirtualPetTest" time="0.001"/>
+  <testcase name="canNamePet()" classname="VirtualPetTest" time="0.002"/>
+  <testcase name="canFeedPet()" classname="VirtualPetTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
