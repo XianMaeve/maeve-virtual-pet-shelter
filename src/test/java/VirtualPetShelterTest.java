@@ -16,7 +16,7 @@ public class VirtualPetShelterTest {
     @Test
     public void canGetSize() {
         VirtualPetShelter testShelter = new VirtualPetShelter();
-        assertEquals(3,testShelter.generateShelter(3));
+        assertEquals(3, testShelter.generateShelter(3));
     }
 
     @Test

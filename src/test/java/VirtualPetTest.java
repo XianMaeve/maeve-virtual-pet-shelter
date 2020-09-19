@@ -8,7 +8,7 @@ public class VirtualPetTest {
     public void canNamePet() {
         VirtualPet testPet = new VirtualPet("bob", "a cat", 45, 45, 45);
         assertEquals("bob", testPet.getName());
-        assertEquals("ron",testPet.setName("ron"));
+        assertEquals("ron", testPet.setName("ron"));
     }
 
     @Test
@@ -16,7 +16,7 @@ public class VirtualPetTest {
         VirtualPet testPet = new VirtualPet("bob", "a cat", 45, 45, 45);
         testPet.setHunger(10);
         assertEquals(10, testPet.getHunger());
-        assertEquals(50,testPet.setHunger(50));
+        assertEquals(50, testPet.setHunger(50));
     }
 
     @Test
